@@ -11,5 +11,11 @@ The "Sentiment" would return 1 (Positive)
 # Results 
 After training for 10 epochs with 50k paragraphs of data the final accuracy was 96.77%. 
 
+# Dataset
+
+[IMDB](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) Dataset
+
+![image](https://github.com/durzal1/Sentiment-Analysis/assets/67489054/453ac004-cb52-44c5-953b-a723079edf3b)
+
 
 
